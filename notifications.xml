@@ -1,0 +1,8 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="File type conflict" displayType="NONE" shouldLog="false" />
+    <notification groupId="File type recognized" displayType="NONE" shouldLog="false" />
+    <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
+    <notification groupId="Material Theme Notifications" displayType="NONE" shouldLog="false" />
+  </component>
+</application>
