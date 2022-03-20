@@ -2,7 +2,7 @@
   <option name="RIGHT_MARGIN" value="70" />
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <codeStyleSettings language="Dart">
-    <option name="RIGHT_MARGIN" value="70" />
+    <option name="RIGHT_MARGIN" value="75" />
   </codeStyleSettings>
   <codeStyleSettings language="XML">
     <option name="FORCE_REARRANGE_MODE" value="1" />

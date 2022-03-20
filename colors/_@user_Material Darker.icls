@@ -5,7 +5,7 @@
     <property name="description" />
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.26</property>
-    <property name="modified">2022-03-20T16:36:31</property>
+    <property name="modified">2022-03-20T17:43:04</property>
     <property name="originalScheme">Material Darker</property>
     <property name="vendorMail">asd</property>
     <property name="vendorName">asd</property>
@@ -67,7 +67,7 @@
     <option name="PROMOTION_PANE" value="1a1a1a" />
     <option name="QUESTION_HINT" value="212121" />
     <option name="RECENT_LOCATIONS_SELECTION" value="1a1a1a" />
-    <option name="RIGHT_MARGIN_COLOR" value="424242" />
+    <option name="RIGHT_MARGIN_COLOR" value="" />
     <option name="SELECTED_INDENT_GUIDE" value="ff9800" />
     <option name="SELECTED_TEARLINE_COLOR" value="ff9800" />
     <option name="SELECTION_BACKGROUND" value="353535" />
@@ -99,7 +99,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_3" value="616161" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="5a4036" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="ab7967" />
-    <option name="VISUAL_INDENT_GUIDE" value="424242" />
+    <option name="VISUAL_INDENT_GUIDE" value="" />
     <option name="WHITESPACES" value="616161" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="414141" />
   </colors>
