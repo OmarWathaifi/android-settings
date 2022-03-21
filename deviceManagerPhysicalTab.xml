@@ -1,0 +1,28 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="5af54a5c" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2101K6G" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.1.3:5555" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2101K6G" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
