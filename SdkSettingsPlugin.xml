@@ -1,0 +1,11 @@
+<application>
+  <component name="org.intellij.sdk.settings.AppSettingsState">
+    <option name="maxNumOfChars" value="20" />
+    <option name="displayOnlyFileName" value="true" />
+    <option name="selectedTabColor" value="-14013910" />
+    <option name="tabsColor" value="-14013910" />
+    <option name="selectedTextColor" value="-14013910" />
+    <option name="textColor" value="-14013910" />
+    <option name="fillWithSpaces" value="true" />
+  </component>
+</application>
