@@ -22,12 +22,20 @@
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
   </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="shift ctrl r" />
   </action>
   <action id="ReplaceInPath" />
   <action id="SaveAll" />
+  <action id="ShowReformatFileDialog">
+    <keyboard-shortcut first-keystroke="shift ctrl alt l" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
   <action id="StringManipulation.ToHyphenCaseOrCamelCase">
     <keyboard-shortcut first-keystroke="shift ctrl q" />
   </action>
