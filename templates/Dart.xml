@@ -1,0 +1,7 @@
+<templateSet group="Dart">
+  <template name="thencatch" value=".then((value) {}).catchError((error) {})" description="Then And Catch Error" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+</templateSet>
