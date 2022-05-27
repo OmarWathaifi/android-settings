@@ -1,0 +1,24 @@
+<application>
+  <component name="Atom Icon Selections Config">
+    <option name="selectedFolderAssociations">
+      <SelectedAssociations>
+        <option name="iconType" value="FOLDER" />
+        <option name="ownAssociations">
+          <map>
+            <entry key="datasources">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?(db|migrat(e|ions)|database|repos?|repositories|repository)$" />
+                  <option name="pattern" value="^[\._]?(db|migrat(e|ions)|database|repos?|repositories|repository)$" />
+                  <option name="touched" value="true" />
+                  <option name="name" value="datasources" />
+                  <option name="icon" value="\db.svg" />
+                </RegexAssociation>
+              </value>
+            </entry>
+          </map>
+        </option>
+      </SelectedAssociations>
+    </option>
+  </component>
+</application>
