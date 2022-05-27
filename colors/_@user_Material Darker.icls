@@ -5,7 +5,7 @@
     <property name="description" />
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.26</property>
-    <property name="modified">2022-05-25T20:49:16</property>
+    <property name="modified">2022-05-27T07:40:14</property>
     <property name="originalScheme">Material Darker</property>
     <property name="vendorMail">asd</property>
     <property name="vendorName">asd</property>
@@ -16,10 +16,9 @@
   <option name="EDITOR_FONT_SIZE" value="17" />
   <option name="EDITOR_FONT_NAME" value="Cascadia Code" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Fira Code" />
-  <option name="CONSOLE_FONT_SIZE" value="10" />
+  <option name="CONSOLE_FONT_NAME" value="Cascadia Code" />
+  <option name="CONSOLE_FONT_SIZE" value="13" />
   <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="CONSOLE_LINE_SPACING" value="1.5" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
@@ -658,7 +657,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="c792ea" />
+        <option name="FOREGROUND" value="7808ef" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -1212,8 +1211,7 @@
     </option>
     <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="808080" />
-        <option name="EFFECT_COLOR" value="808080" />
+        <option name="FOREGROUND" value="7808ef" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -3689,7 +3687,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="eeffff" />
+        <option name="FOREGROUND" value="6f3b4" />
         <option name="BACKGROUND" value="212121" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
@@ -3811,11 +3809,6 @@
     <option name="XPATH.KEYWORD" baseAttributes="" />
     <option name="XPATH.XPATH_NAME" baseAttributes="" />
     <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
-    <option name="YAML_SCALAR_KEY">
-      <value>
-        <option name="FOREGROUND" value="f07178" />
-      </value>
-    </option>
     <option name="YAML_SCALAR_LIST">
       <value>
         <option name="FOREGROUND" value="89ddff" />
