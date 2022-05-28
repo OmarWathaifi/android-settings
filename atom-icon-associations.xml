@@ -76,6 +76,18 @@
                 </RegexAssociation>
               </value>
             </entry>
+            <entry key="|remote">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?remote$" />
+                  <option name="pattern" value="^[\._]?remote$" />
+                  <option name="touched" value="true" />
+                  <option name="name" value="|remote" />
+                  <option name="icon" value="C:\Users\ahmee\Downloads\Compressed\iconGenerator-master\iconGenerator-master\assets\icons\foldersOpen\aws.svg" />
+                  <option name="priority" value="10000" />
+                </RegexAssociation>
+              </value>
+            </entry>
           </map>
         </option>
       </SelectedAssociations>
