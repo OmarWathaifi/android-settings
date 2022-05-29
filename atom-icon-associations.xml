@@ -17,26 +17,15 @@
                 </RegexAssociation>
               </value>
             </entry>
-            <entry key="datasources">
-              <value>
-                <RegexAssociation>
-                  <option name="matcher" value="^[\._]?datasources(db)?$" />
-                  <option name="pattern" value="^[\._]?datasources(db)?$" />
-                  <option name="touched" value="true" />
-                  <option name="name" value="datasources" />
-                  <option name="icon" value="C:\Users\ahmee\Downloads\Compressed\iconGenerator-master\iconGenerator-master\assets\icons\foldersOpen\db.svg" />
-                </RegexAssociation>
-              </value>
-            </entry>
             <entry key="deploy">
               <value>
                 <RegexAssociation>
-                  <option name="matcher" value="^\.(deploys?|remote)$" />
-                  <option name="pattern" value="^\.(deploys?|remote)$" />
+                  <option name="matcher" value="^\.(deploys?|?remote?)$" />
+                  <option name="pattern" value="^\.(deploys?|?remote?)$" />
                   <option name="touched" value="true" />
                   <option name="iconType" value="FOLDER" />
                   <option name="name" value="deploy" />
-                  <option name="icon" value="/aws.svg" />
+                  <option name="icon" value="C:\Users\ahmee\Downloads\Compressed\New folder (2)\iconGenerator-master\iconGenerator-master\assets\icons\files\aws.svg" />
                 </RegexAssociation>
               </value>
             </entry>
@@ -49,6 +38,18 @@
                   <option name="iconType" value="FOLDER" />
                   <option name="name" value="logs" />
                   <option name="icon" value="/logs.svg" />
+                </RegexAssociation>
+              </value>
+            </entry>
+            <entry key="sql">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?(sql|mysql|pgsql|maria(db)?)$" />
+                  <option name="pattern" value="^[\._]?(sql|mysql|pgsql|maria(db)?)$" />
+                  <option name="touched" value="true" />
+                  <option name="iconType" value="FOLDER" />
+                  <option name="name" value="sql" />
+                  <option name="icon" value="/sql.svg" />
                 </RegexAssociation>
               </value>
             </entry>
@@ -73,18 +74,6 @@
                   <option name="iconType" value="FOLDER" />
                   <option name="name" value="web" />
                   <option name="icon" value="/web.svg" />
-                </RegexAssociation>
-              </value>
-            </entry>
-            <entry key="|remote">
-              <value>
-                <RegexAssociation>
-                  <option name="matcher" value="^[\._]?remote$" />
-                  <option name="pattern" value="^[\._]?remote$" />
-                  <option name="touched" value="true" />
-                  <option name="name" value="|remote" />
-                  <option name="icon" value="C:\Users\ahmee\Downloads\Compressed\iconGenerator-master\iconGenerator-master\assets\icons\foldersOpen\aws.svg" />
-                  <option name="priority" value="10000" />
                 </RegexAssociation>
               </value>
             </entry>
