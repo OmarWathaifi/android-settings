@@ -5,75 +5,15 @@
         <option name="iconType" value="FOLDER" />
         <option name="ownAssociations">
           <map>
-            <entry key="base">
+            <entry key="docs">
               <value>
                 <RegexAssociation>
-                  <option name="matcher" value="^[\._]?(bases?|abstract|parents?|domain)$" />
-                  <option name="pattern" value="^[\._]?(bases?|abstract|parents?|domain)$" />
+                  <option name="matcher" value="^[\._]?(docs?|documentation|datasources|datasource)$" />
+                  <option name="pattern" value="^[\._]?(docs?|documentation|datasources|datasource)$" />
                   <option name="touched" value="true" />
                   <option name="iconType" value="FOLDER" />
-                  <option name="name" value="base" />
-                  <option name="icon" value="/base.svg" />
-                </RegexAssociation>
-              </value>
-            </entry>
-            <entry key="deploy">
-              <value>
-                <RegexAssociation>
-                  <option name="matcher" value="^\.(deploys?|?remote?)$" />
-                  <option name="pattern" value="^\.(deploys?|?remote?)$" />
-                  <option name="touched" value="true" />
-                  <option name="iconType" value="FOLDER" />
-                  <option name="name" value="deploy" />
-                  <option name="icon" value="C:\Users\ahmee\Downloads\Compressed\New folder (2)\iconGenerator-master\iconGenerator-master\assets\icons\files\aws.svg" />
-                </RegexAssociation>
-              </value>
-            </entry>
-            <entry key="logs">
-              <value>
-                <RegexAssociation>
-                  <option name="matcher" value="^[\._]?(logs?|local|cache)$" />
-                  <option name="pattern" value="^[\._]?(logs?|local|cache)$" />
-                  <option name="touched" value="true" />
-                  <option name="iconType" value="FOLDER" />
-                  <option name="name" value="logs" />
-                  <option name="icon" value="/logs.svg" />
-                </RegexAssociation>
-              </value>
-            </entry>
-            <entry key="sql">
-              <value>
-                <RegexAssociation>
-                  <option name="matcher" value="^[\._]?(sql|mysql|pgsql|maria(db)?)$" />
-                  <option name="pattern" value="^[\._]?(sql|mysql|pgsql|maria(db)?)$" />
-                  <option name="touched" value="true" />
-                  <option name="iconType" value="FOLDER" />
-                  <option name="name" value="sql" />
-                  <option name="icon" value="/sql.svg" />
-                </RegexAssociation>
-              </value>
-            </entry>
-            <entry key="viewModels">
-              <value>
-                <RegexAssociation>
-                  <option name="matcher" value="^[\._]?(view[mM]odels?|crud|presentation)$" />
-                  <option name="pattern" value="^[\._]?(view[mM]odels?|crud|presentation)$" />
-                  <option name="touched" value="true" />
-                  <option name="iconType" value="FOLDER" />
-                  <option name="name" value="viewModels" />
-                  <option name="icon" value="/viewmodel.svg" />
-                </RegexAssociation>
-              </value>
-            </entry>
-            <entry key="web">
-              <value>
-                <RegexAssociation>
-                  <option name="matcher" value="^[\._]?(public(_html)?|static|web|www|wwwroot)$" />
-                  <option name="pattern" value="^[\._]?(public(_html)?|static|web|www|wwwroot)$" />
-                  <option name="touched" value="true" />
-                  <option name="iconType" value="FOLDER" />
-                  <option name="name" value="web" />
-                  <option name="icon" value="/web.svg" />
+                  <option name="name" value="docs" />
+                  <option name="icon" value="/docs.svg" />
                 </RegexAssociation>
               </value>
             </entry>
