@@ -5,7 +5,7 @@
     <property name="description" />
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.26</property>
-    <property name="modified">2022-06-02T07:06:26</property>
+    <property name="modified">2022-06-03T09:52:17</property>
     <property name="originalScheme">Material Darker</property>
     <property name="vendorMail">asd</property>
     <property name="vendorName">asd</property>
@@ -110,7 +110,7 @@
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="ffdf6b" />
+        <option name="FOREGROUND" value="e8bf6a" />
       </value>
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR1">
@@ -3178,7 +3178,7 @@
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="ffdf6b" />
+        <option name="FOREGROUND" value="e8bf6a" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR1">
@@ -3578,7 +3578,7 @@
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="ffdf6b" />
+        <option name="FOREGROUND" value="e8bf6a" />
       </value>
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR1">
@@ -3603,7 +3603,7 @@
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="ffdf6b" />
+        <option name="FOREGROUND" value="e8bf6a" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR1">
