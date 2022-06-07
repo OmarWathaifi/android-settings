@@ -5,6 +5,18 @@
         <option name="iconType" value="FOLDER" />
         <option name="ownAssociations">
           <map>
+            <entry key="controllers">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?(controllers?|manager|ctrls?)$" />
+                  <option name="pattern" value="^[\._]?(controllers?|manager|ctrls?)$" />
+                  <option name="touched" value="true" />
+                  <option name="iconType" value="FOLDER" />
+                  <option name="name" value="controllers" />
+                  <option name="icon" value="/controllers.svg" />
+                </RegexAssociation>
+              </value>
+            </entry>
             <entry key="deploy">
               <value>
                 <RegexAssociation>
@@ -20,8 +32,8 @@
             <entry key="docs">
               <value>
                 <RegexAssociation>
-                  <option name="matcher" value="^[\._]?(docs?|documentation|datasources|datasource)$" />
-                  <option name="pattern" value="^[\._]?(docs?|documentation|datasources|datasource)$" />
+                  <option name="matcher" value="^[\._]?(docs?|documentation|datasources|data_sources|datasource)$" />
+                  <option name="pattern" value="^[\._]?(docs?|documentation|datasources|data_sources|datasource)$" />
                   <option name="touched" value="true" />
                   <option name="iconType" value="FOLDER" />
                   <option name="name" value="docs" />
