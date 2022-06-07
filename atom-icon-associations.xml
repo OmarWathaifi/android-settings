@@ -53,6 +53,18 @@
                 </RegexAssociation>
               </value>
             </entry>
+            <entry key="modals">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?(modals?|portals?|usecases?|use_cases?|dialogs?)$" />
+                  <option name="pattern" value="^[\._]?(modals?|portals?|usecases?|use_cases?|dialogs?)$" />
+                  <option name="touched" value="true" />
+                  <option name="iconType" value="FOLDER" />
+                  <option name="name" value="modals" />
+                  <option name="icon" value="/modals.svg" />
+                </RegexAssociation>
+              </value>
+            </entry>
             <entry key="rules">
               <value>
                 <RegexAssociation>
@@ -74,6 +86,18 @@
                   <option name="iconType" value="FOLDER" />
                   <option name="name" value="viewModels" />
                   <option name="icon" value="/viewmodel.svg" />
+                </RegexAssociation>
+              </value>
+            </entry>
+            <entry key="web">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?(public(_html)?|static|web|network|net_work|www|wwwroot)$" />
+                  <option name="pattern" value="^[\._]?(public(_html)?|static|web|network|net_work|www|wwwroot)$" />
+                  <option name="touched" value="true" />
+                  <option name="iconType" value="FOLDER" />
+                  <option name="name" value="web" />
+                  <option name="icon" value="/web.svg" />
                 </RegexAssociation>
               </value>
             </entry>
