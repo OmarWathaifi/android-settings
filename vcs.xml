@@ -26,6 +26,10 @@
           <option name="url" value="https://github.com/Ahmed-Muhammad/shopping-app.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/hupptechnologies/shopping-app-with-cart-flutter-demo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\ahmee\StudioProjects" />
