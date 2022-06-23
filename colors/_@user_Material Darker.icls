@@ -5,7 +5,7 @@
     <property name="description" />
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.26</property>
-    <property name="modified">2022-06-22T05:13:02</property>
+    <property name="modified">2022-06-23T07:57:04</property>
     <property name="originalScheme">Material Darker</property>
     <property name="vendorMail">asd</property>
     <property name="vendorName">asd</property>
@@ -1429,8 +1429,18 @@
         <option name="FOREGROUND" value="89ddff" />
       </value>
     </option>
+    <option name="KOTLIN_FUNCTION_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="d2ff07" />
+      </value>
+    </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
       <value />
+    </option>
+    <option name="KOTLIN_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="ef0808" />
+      </value>
     </option>
     <option name="KOTLIN_LABEL">
       <value />
