@@ -44,8 +44,8 @@
             <entry key="layouts">
               <value>
                 <RegexAssociation>
-                  <option name="matcher" value="^[\._]?(layouts|presentation?)$" />
-                  <option name="pattern" value="^[\._]?(layouts|presentation?)$" />
+                  <option name="matcher" value="^[\._]?(layouts|presentation|responsive?)$" />
+                  <option name="pattern" value="^[\._]?(layouts|presentation|responsive?)$" />
                   <option name="touched" value="true" />
                   <option name="iconType" value="FOLDER" />
                   <option name="name" value="layouts" />
