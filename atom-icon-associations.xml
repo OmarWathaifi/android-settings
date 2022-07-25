@@ -77,6 +77,18 @@
                 </RegexAssociation>
               </value>
             </entry>
+            <entry key="responsive">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?(responsive?|respon)$" />
+                  <option name="pattern" value="^[\._]?(responsive?|respon)$" />
+                  <option name="touched" value="true" />
+                  <option name="name" value="responsive" />
+                  <option name="icon" value="\content.svg" />
+                  <option name="priority" value="10000" />
+                </RegexAssociation>
+              </value>
+            </entry>
             <entry key="rules">
               <value>
                 <RegexAssociation>
