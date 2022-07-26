@@ -5,6 +5,18 @@
         <option name="iconType" value="FOLDER" />
         <option name="ownAssociations">
           <map>
+            <entry key="content">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?(contents?|cont|context|responsive?|responsive)$ " />
+                  <option name="pattern" value="^[\._]?(contents?|cont|context|responsive?|responsive)$ " />
+                  <option name="touched" value="true" />
+                  <option name="iconType" value="FOLDER" />
+                  <option name="name" value="content" />
+                  <option name="icon" value="/content.svg" />
+                </RegexAssociation>
+              </value>
+            </entry>
             <entry key="controllers">
               <value>
                 <RegexAssociation>
