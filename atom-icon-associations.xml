@@ -1,0 +1,145 @@
+<application>
+  <component name="Atom Icon Selections Config">
+    <option name="selectedFolderAssociations">
+      <SelectedAssociations>
+        <option name="iconType" value="FOLDER" />
+        <option name="ownAssociations">
+          <map>
+            <entry key="content">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?(contents?|cont|context|responsive?|responsive)$ " />
+                  <option name="pattern" value="^[\._]?(contents?|cont|context|responsive?|responsive)$ " />
+                  <option name="touched" value="true" />
+                  <option name="iconType" value="FOLDER" />
+                  <option name="name" value="content" />
+                  <option name="icon" value="/content.svg" />
+                </RegexAssociation>
+              </value>
+            </entry>
+            <entry key="controllers">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?(controllers?|manager|ctrls?)$" />
+                  <option name="pattern" value="^[\._]?(controllers?|manager|ctrls?)$" />
+                  <option name="touched" value="true" />
+                  <option name="iconType" value="FOLDER" />
+                  <option name="name" value="controllers" />
+                  <option name="icon" value="/controllers.svg" />
+                </RegexAssociation>
+              </value>
+            </entry>
+            <entry key="deploy">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?(deploys|remote)$" />
+                  <option name="pattern" value="^[\._]?(deploys|remote)$" />
+                  <option name="touched" value="true" />
+                  <option name="iconType" value="FOLDER" />
+                  <option name="name" value="deploy" />
+                  <option name="icon" value="/aws.svg" />
+                </RegexAssociation>
+              </value>
+            </entry>
+            <entry key="docs">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?(docs?|documentation|datasources|data_sources|datasource)$" />
+                  <option name="pattern" value="^[\._]?(docs?|documentation|datasources|data_sources|datasource)$" />
+                  <option name="touched" value="true" />
+                  <option name="iconType" value="FOLDER" />
+                  <option name="name" value="docs" />
+                  <option name="icon" value="/docs.svg" />
+                </RegexAssociation>
+              </value>
+            </entry>
+            <entry key="layouts">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?(layouts|presentation|responsive?)$" />
+                  <option name="pattern" value="^[\._]?(layouts|presentation|responsive?)$" />
+                  <option name="touched" value="true" />
+                  <option name="iconType" value="FOLDER" />
+                  <option name="name" value="layouts" />
+                  <option name="icon" value="/layouts.svg" />
+                </RegexAssociation>
+              </value>
+            </entry>
+            <entry key="logs">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?(logs?|local)$" />
+                  <option name="pattern" value="^[\._]?(logs?|local)$" />
+                  <option name="touched" value="true" />
+                  <option name="iconType" value="FOLDER" />
+                  <option name="name" value="logs" />
+                  <option name="icon" value="/logs.svg" />
+                </RegexAssociation>
+              </value>
+            </entry>
+            <entry key="modals">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?(modals?|portals?|usecases?|use_cases?|dialogs?)$" />
+                  <option name="pattern" value="^[\._]?(modals?|portals?|usecases?|use_cases?|dialogs?)$" />
+                  <option name="touched" value="true" />
+                  <option name="iconType" value="FOLDER" />
+                  <option name="name" value="modals" />
+                  <option name="icon" value="/modals.svg" />
+                </RegexAssociation>
+              </value>
+            </entry>
+            <entry key="responsive">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?(responsive?|respon)$" />
+                  <option name="pattern" value="^[\._]?(responsive?|respon)$" />
+                  <option name="touched" value="true" />
+                  <option name="name" value="responsive" />
+                  <option name="icon" value="\content.svg" />
+                  <option name="priority" value="10000" />
+                </RegexAssociation>
+              </value>
+            </entry>
+            <entry key="rules">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?(validations?|validators?|rules?|domain?)$" />
+                  <option name="pattern" value="^[\._]?(validations?|validators?|rules?|domain?)$" />
+                  <option name="touched" value="true" />
+                  <option name="iconType" value="FOLDER" />
+                  <option name="name" value="rules" />
+                  <option name="icon" value="/rules.svg" />
+                </RegexAssociation>
+              </value>
+            </entry>
+            <entry key="viewModels">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?(view[mM]odels?|crud)$" />
+                  <option name="pattern" value="^[\._]?(view[mM]odels?|crud)$" />
+                  <option name="touched" value="true" />
+                  <option name="iconType" value="FOLDER" />
+                  <option name="name" value="viewModels" />
+                  <option name="icon" value="/viewmodel.svg" />
+                </RegexAssociation>
+              </value>
+            </entry>
+            <entry key="web">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?(public(_html)?|static|web|network|net_work|www|wwwroot)$" />
+                  <option name="pattern" value="^[\._]?(public(_html)?|static|web|network|net_work|www|wwwroot)$" />
+                  <option name="touched" value="true" />
+                  <option name="iconType" value="FOLDER" />
+                  <option name="name" value="web" />
+                  <option name="icon" value="/web.svg" />
+                </RegexAssociation>
+              </value>
+            </entry>
+          </map>
+        </option>
+      </SelectedAssociations>
+    </option>
+  </component>
+</application>
