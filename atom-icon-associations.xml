@@ -53,6 +53,18 @@
                 </RegexAssociation>
               </value>
             </entry>
+            <entry key="functions">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?(functions?|services?|business_logic?|logic?|lambdas?)$" />
+                  <option name="pattern" value="^[\._]?(functions?|services?|business_logic?|logic?|lambdas?)$" />
+                  <option name="touched" value="true" />
+                  <option name="iconType" value="FOLDER" />
+                  <option name="name" value="functions" />
+                  <option name="icon" value="/functions.svg" />
+                </RegexAssociation>
+              </value>
+            </entry>
             <entry key="layouts">
               <value>
                 <RegexAssociation>
