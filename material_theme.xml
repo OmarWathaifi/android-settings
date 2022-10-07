@@ -4,6 +4,7 @@
     <option name="compactMenus" value="true" />
     <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
+    <option name="contrastMode" value="true" />
     <option name="customTreeIndentEnabled" value="true" />
     <option name="highlightColorEnabled" value="true" />
     <option name="styledDirectories" value="true" />
@@ -14,6 +15,7 @@
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isCompactFields" value="true" />
+    <option name="isContrastMode" value="true" />
     <option name="customListItemsSizeEnabled" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="isStyledDirectories" value="true" />
@@ -28,7 +30,7 @@
     <option name="tabsHeight" value="17" />
     <option name="accentColor" value="ff9800" />
     <option name="highlightColor" value="e9bd1e" />
-    <option name="selectedTheme" value="CUSTOM" />
+    <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-563751d1:17fa78863bd:-7fe3" />
     <option name="version" value="6.16.2" />
     <option name="tabFont" value="Cascadia Code" />
