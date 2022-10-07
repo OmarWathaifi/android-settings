@@ -19,13 +19,13 @@
     <option name="isStyledDirectories" value="true" />
     <option name="isTabsShadow" value="false" />
     <option name="isWizardShown" value="true" />
-    <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="useColoredDirectories" value="true" />
     <option name="customSidebarHeight" value="20" />
     <option name="customListItemsSize" value="18" />
     <option name="leftTreeIndent" value="4" />
     <option name="rightTreeIndent" value="4" />
+    <option name="settingsSelectedTab" value="2" />
     <option name="tabsHeight" value="17" />
     <option name="accentColor" value="ff9800" />
     <option name="highlightColor" value="e9bd1e" />
