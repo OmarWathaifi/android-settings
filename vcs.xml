@@ -46,6 +46,10 @@
           <option name="url" value="https://github.com/jhomlala/betterplayer" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/eltamiuz/hiraj" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\ahmee\StudioProjects" />
