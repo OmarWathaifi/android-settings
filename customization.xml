@@ -5,11 +5,35 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="BiggerIconsAction" is_action="true" action_type="-1" position="8">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Atom File Icon Settings" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EnablePsiIconsAction" is_action="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Atom File Icon Settings" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="MaterialTheme.Accents" is_group="true" action_type="-1" position="2">
       <path value="root" />
       <path value="Main Menu" />
       <path value="Tools" />
       <path value="Material Theme" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EnableDirectoryIconsAction" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Atom File Icon Settings" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EnableFileIconsAction" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Atom File Icon Settings" />
       <option name="myInitialPosition" value="-1" />
     </group>
   </component>
