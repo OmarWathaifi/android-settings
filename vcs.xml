@@ -58,6 +58,10 @@
           <option name="url" value="https://github.com/zizo333/ecommerce_app.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/minafarideleia/complete_advanced_flutter_arabic.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\ahmee\StudioProjects" />
