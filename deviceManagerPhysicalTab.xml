@@ -5,7 +5,7 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="192.168.1.5:5555" />
+            <value value="5af54a5c" />
           </Key>
         </key>
         <name value="Xiaomi M2101K6G" />
@@ -16,7 +16,7 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="5af54a5c" />
+            <value value="192.168.1.5:5555" />
           </Key>
         </key>
         <name value="Xiaomi M2101K6G" />
