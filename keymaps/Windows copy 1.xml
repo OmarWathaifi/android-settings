@@ -1,4 +1,7 @@
 <keymap version="1" name="Windows copy 1" parent="$default">
+  <action id="ActivateFlutterInspectorToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl 1" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
@@ -69,6 +72,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt t" />
     <keyboard-shortcut first-keystroke="ctrl alt q" />
   </action>
+  <action id="ToggleBookmark1" />
   <action id="ToggleRenderedDocPresentation" />
   <action id="UnselectPreviousOccurrence">
     <keyboard-shortcut first-keystroke="shift alt j" />
