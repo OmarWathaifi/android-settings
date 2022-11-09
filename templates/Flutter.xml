@@ -13,7 +13,8 @@
       <option name="DART_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="scf" value="Scaffold(&#10;      appBar: CustomAppbar(&#10;      title: '$text$',&#10;        backArrowFunction: () {&#10;          Navigator.pop(context);&#10;        },&#10;        &#10;      ),&#10;      body: Column(&#10;        children: [&#10;          &#10;          &#10;        ],&#10;      ),&#10;    );" description="New Scaffold with Custom AppBar" toReformat="true" toShortenFQNames="true">
+  <template name="scf" value="import 'package:water/presentation/widgets/custom_appbar.dart';&#10;&#10;Scaffold(&#10;      appBar: CustomAppbar(&#10;      title: AppStrings.$goto$,&#10;        padding: EdgeInsets.only(right: 250.w, top: 5.h),&#10;      title: '$text$',&#10;        backArrowFunction: () {&#10;          Navigator.pop(context);&#10;        },&#10;        &#10;      ),&#10;      body: Column(&#10;        children: [&#10;          &#10;          &#10;        ],&#10;      ),&#10;    );" description="New Scaffold with Custom AppBar" toReformat="true" toShortenFQNames="true">
+    <variable name="goto" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="DART_STATEMENT" value="true" />
