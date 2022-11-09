@@ -118,6 +118,22 @@
           <option name="groupName" value="Shell Script Hidden" />
           <option name="key" value="shell_command exists" />
         </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Flutter" />
+          <option name="key" value="scfAll" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Flutter" />
+          <option name="key" value="column" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Flutter" />
+          <option name="key" value="frow" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Flutter" />
+          <option name="key" value="fsb" />
+        </TemplateKey>
       </list>
     </option>
   </component>
