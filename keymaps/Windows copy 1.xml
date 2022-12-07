@@ -65,6 +65,9 @@
   <action id="StringManipulation.ToPascalCase">
     <keyboard-shortcut first-keystroke="shift ctrl q" />
   </action>
+  <action id="StringManipulation.ToSentenceCaseOrCamelCase">
+    <keyboard-shortcut first-keystroke="shift ctrl alt q" />
+  </action>
   <action id="StringManipulation.ToSnakeCaseOrCamelCase">
     <keyboard-shortcut first-keystroke="shift ctrl q" />
   </action>
