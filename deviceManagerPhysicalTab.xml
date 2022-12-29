@@ -45,6 +45,17 @@
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="VQTBB20528200216" />
+          </Key>
+        </key>
+        <name value="HUAWEI AGS2-L09" />
+        <target value="Android 8.0" />
+        <api value="androidversion:26:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
