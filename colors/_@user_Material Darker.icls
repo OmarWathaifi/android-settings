@@ -5,17 +5,17 @@
     <property name="description" />
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.26</property>
-    <property name="modified">2023-02-07T19:05:10</property>
+    <property name="modified">2023-02-07T19:17:09</property>
     <property name="originalScheme">Material Darker</property>
     <property name="vendorMail">asd</property>
     <property name="vendorName">asd</property>
     <property name="vendorUrl">http://</property>
     <property name="version">0.1</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="Cascadia Code" />
+  <option name="CONSOLE_FONT_NAME" value="Cascadia Code PL" />
   <option name="CONSOLE_FONT_SIZE" value="13" />
   <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="CONSOLE_LINE_SPACING" value="1.4" />
+  <option name="CONSOLE_LINE_SPACING" value="1.3" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
@@ -318,7 +318,7 @@
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="eeff00" />
+        <option name="FOREGROUND" value="f9ff00" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
