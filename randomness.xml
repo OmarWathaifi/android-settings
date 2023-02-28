@@ -1,0 +1,13 @@
+<application>
+  <component name="StringSettings">
+    <option name="schemes">
+      <list>
+        <StringScheme>
+          <option name="enclosure" value="" />
+          <option name="maxLength" value="25" />
+          <option name="minLength" value="15" />
+        </StringScheme>
+      </list>
+    </option>
+  </component>
+</application>

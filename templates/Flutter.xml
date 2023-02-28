@@ -1,0 +1,52 @@
+<templateSet group="Flutter">
+  <template name="stless" value="import 'package:flutter/material.dart';&#10;&#10;class $NAME$ extends StatelessWidget {&#10;  const $NAME$({Key? key}) : super(key: key);&#10;&#10;  @override&#10;  Widget build(BuildContext context) {&#10;    return Container($END$);&#10;  }&#10;}&#10;" description="New Stateless widget" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="stful" value="import 'package:flutter/material.dart';&#10;&#10;class $NAME$ extends StatefulWidget {&#10;  const $NAME$({Key? key}) : super(key: key);&#10;&#10;  @override&#10;  State&lt;$NAME$&gt; createState() =&gt; $SNAME$();&#10;}&#10;&#10;class $SNAME$ extends State&lt;$NAME$&gt; {&#10;  @override&#10;  Widget build(BuildContext context) {&#10;    return Container($END$);&#10;  }&#10;}&#10;" description="New Stateful widget" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="SNAME" expression="regularExpression(concat(&quot;_&quot;, NAME, &quot;State&quot;), &quot;^__&quot;, &quot;_&quot;)" defaultValue="" alwaysStopAt="false" />
+    <context />
+  </template>
+  <template name="scs" value="SingleChildScrollView&#10;" description="New SingleChildScrollView" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="DART_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="scf" value="Scaffold(&#10;      appBar: CustomAppbar(&#10;      title: AppStrings.$goto$,&#10;        padding: EdgeInsets.only(right: 250.w, top: 5.h),&#10;        backArrowFunction: () {&#10;          Navigator.pop(context);&#10;        },&#10;        &#10;      ),&#10;      body: Column(&#10;        children: [&#10;          &#10;          &#10;        ],&#10;      ),&#10;    );" description="New Scaffold with Custom AppBar" toReformat="true" toShortenFQNames="true">
+    <variable name="goto" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="col" value="Column(&#10;  children:[&#10;  $goto$,&#10;  ],&#10;)," description="Create Column Widget" toReformat="true" toShortenFQNames="true">
+    <variable name="goto" expression="&quot;&quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="ro" value="Row(&#10;  children: &#10;  [&#10;     $goto$,&#10;  ],&#10;)" description="New Row widget" toReformat="true" toShortenFQNames="true">
+    <variable name="goto" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="sbh" value="SizedBox(height: $height$)," description="New SizedBox widget" toReformat="true" toShortenFQNames="true">
+    <variable name="height" expression="&quot;0&quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="but" value="ElevatedButton(&#10; child: Text($text$),&#10;onPressed: () {},&#10;)," description="Elevated Button" toReformat="false" toShortenFQNames="true">
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="FLUTTER" value="true" />
+    </context>
+  </template>
+  <template name="sbw" value="SizedBox(width: $width$)," description="New SizedBox widget" toReformat="true" toShortenFQNames="true">
+    <variable name="width" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
