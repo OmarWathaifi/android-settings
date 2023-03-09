@@ -387,6 +387,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="org.liujing.plugin.json_serializable_format">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="pl.pszklarska.pubversionchecker">
           <value>
             <PluginData>
