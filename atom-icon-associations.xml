@@ -5,6 +5,18 @@
         <option name="iconType" value="FOLDER" />
         <option name="ownAssociations">
           <map>
+            <entry key="base">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?(bases?|abstract|response|parents?)$" />
+                  <option name="pattern" value="^[\._]?(bases?|abstract|response|parents?)$" />
+                  <option name="touched" value="true" />
+                  <option name="iconType" value="FOLDER" />
+                  <option name="name" value="base" />
+                  <option name="icon" value="/base.svg" />
+                </RegexAssociation>
+              </value>
+            </entry>
             <entry key="content">
               <value>
                 <RegexAssociation>
@@ -26,6 +38,18 @@
                   <option name="iconType" value="FOLDER" />
                   <option name="name" value="controllers" />
                   <option name="icon" value="/controllers.svg" />
+                </RegexAssociation>
+              </value>
+            </entry>
+            <entry key="db">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?(db|migrat(e|ions)|database|repos?|repositories|repository_impl|repository)$" />
+                  <option name="pattern" value="^[\._]?(db|migrat(e|ions)|database|repos?|repositories|repository_impl|repository)$" />
+                  <option name="touched" value="true" />
+                  <option name="iconType" value="FOLDER" />
+                  <option name="name" value="db" />
+                  <option name="icon" value="/db.svg" />
                 </RegexAssociation>
               </value>
             </entry>
