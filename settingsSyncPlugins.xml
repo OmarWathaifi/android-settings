@@ -135,6 +135,23 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.github.florent37.plugin.jsonserializable">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
+        <entry key="com.github.jokerddj.dart_json_serialize">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="Dart" />
+                  <option value="com.intellij.modules.xml" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.herbert.george.dart.extensions">
           <value>
             <PluginData>
@@ -382,6 +399,18 @@
               <option name="dependencies">
                 <set>
                   <option value="com.intellij.modules.java" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="org.bdshadow.json.serialization.generator">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="Dart" />
+                  <option value="com.intellij.modules.xml" />
                 </set>
               </option>
             </PluginData>
