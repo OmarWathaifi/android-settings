@@ -89,6 +89,18 @@
                 </RegexAssociation>
               </value>
             </entry>
+            <entry key="keys">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?(keys?|certs?|auth|authorization)$" />
+                  <option name="pattern" value="^[\._]?(keys?|certs?|auth|authorization)$" />
+                  <option name="touched" value="true" />
+                  <option name="iconType" value="FOLDER" />
+                  <option name="name" value="keys" />
+                  <option name="icon" value="/keys.svg" />
+                </RegexAssociation>
+              </value>
+            </entry>
             <entry key="layouts">
               <value>
                 <RegexAssociation>
