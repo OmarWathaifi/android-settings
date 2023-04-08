@@ -89,6 +89,18 @@
                 </RegexAssociation>
               </value>
             </entry>
+            <entry key="images">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?(images?|img|medias?|pics?|pictures?|gallery|profile)$" />
+                  <option name="pattern" value="^[\._]?(images?|img|medias?|pics?|pictures?|gallery|profile)$" />
+                  <option name="touched" value="true" />
+                  <option name="iconType" value="FOLDER" />
+                  <option name="name" value="images" />
+                  <option name="icon" value="/images.svg" />
+                </RegexAssociation>
+              </value>
+            </entry>
             <entry key="keys">
               <value>
                 <RegexAssociation>
