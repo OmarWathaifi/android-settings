@@ -36,17 +36,7 @@
       <path value="Atom File Icon Settings" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="florent37.JsonSerializable.Generator" is_action="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="1" position="16">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="florent37.JsonSerializable.Generator" is_action="true" action_type="1" position="17">
+    <group seperator="true" action_type="1" position="17">
       <path value="root" />
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
