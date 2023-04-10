@@ -5,7 +5,7 @@
     <property name="description" />
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.26</property>
-    <property name="modified">2023-04-10T10:10:42</property>
+    <property name="modified">2023-04-10T10:29:33</property>
     <property name="originalScheme">Material Darker</property>
     <property name="vendorMail">asd</property>
     <property name="vendorName">asd</property>
@@ -61,7 +61,7 @@
     <option name="FILESTATUS_addedOutside" value="ffea7f" />
     <option name="FILESTATUS_changelistConflict" value="f97583" />
     <option name="FILESTATUS_modifiedOutside" value="b392f0" />
-    <option name="GUTTER_BACKGROUND" value="212121" />
+    <option name="GUTTER_BACKGROUND" value="0" />
     <option name="INDENT_GUIDE" value="424242" />
     <option name="INFORMATION_HINT" value="212121" />
     <option name="LINE_NUMBERS_COLOR" value="424242" />
