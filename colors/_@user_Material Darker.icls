@@ -5,7 +5,7 @@
     <property name="description" />
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.26</property>
-    <property name="modified">2023-04-10T22:48:19</property>
+    <property name="modified">2023-04-11T02:16:25</property>
     <property name="originalScheme">Material Darker</property>
     <property name="vendorMail">asd</property>
     <property name="vendorName">asd</property>
@@ -662,7 +662,7 @@
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="c3e88d" />
+        <option name="FOREGROUND" value="ffe900" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -3839,9 +3839,15 @@
     <option name="XPATH.KEYWORD" baseAttributes="" />
     <option name="XPATH.XPATH_NAME" baseAttributes="" />
     <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
+    <option name="YAML_ANCHOR">
+      <value>
+        <option name="FOREGROUND" value="ff0b" />
+      </value>
+    </option>
     <option name="YAML_SCALAR_DSTRING">
       <value>
-        <option name="FOREGROUND" value="e8bf6a" />
+        <option name="FOREGROUND" value="ff0b" />
+        <option name="BACKGROUND" value="0" />
       </value>
     </option>
     <option name="YAML_SCALAR_LIST">
@@ -3852,7 +3858,7 @@
     </option>
     <option name="YAML_SCALAR_STRING">
       <value>
-        <option name="FOREGROUND" value="c3e88d" />
+        <option name="FOREGROUND" value="ffe900" />
       </value>
     </option>
     <option name="YAML_SCALAR_VALUE">
@@ -3863,8 +3869,7 @@
     </option>
     <option name="YAML_TEXT">
       <value>
-        <option name="FOREGROUND" value="e8bf6a" />
-        <option name="BACKGROUND" value="212121" />
+        <option name="FOREGROUND" value="ffe900" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
