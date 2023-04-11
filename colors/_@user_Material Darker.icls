@@ -5,8 +5,9 @@
     <property name="description" />
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.26</property>
-    <property name="modified">2023-04-11T05:21:27</property>
+    <property name="modified">2023-04-11T09:39:56</property>
     <property name="originalScheme">Material Darker</property>
+    <property name="rainbow Default language">true</property>
     <property name="vendorMail">asd</property>
     <property name="vendorName">asd</property>
     <property name="vendorUrl">http://</property>
@@ -3110,19 +3111,29 @@
         <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
+    <option name="RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="ff00" />
+      </value>
+    </option>
     <option name="RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="ff05ed" />
+        <option name="FOREGROUND" value="ff00ef" />
       </value>
     </option>
     <option name="RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="800ff" />
+        <option name="FOREGROUND" value="ff0000" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="ffaa73" />
       </value>
     </option>
     <option name="RAINBOW_COLOR4">
       <value>
-        <option name="FOREGROUND" value="9d9152" />
+        <option name="FOREGROUND" value="ffda00" />
       </value>
     </option>
     <option name="RDOC_DIRECTIVE">
