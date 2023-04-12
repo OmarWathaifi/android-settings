@@ -89,6 +89,18 @@
                 </RegexAssociation>
               </value>
             </entry>
+            <entry key="global">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?(global?|general)$ " />
+                  <option name="pattern" value="^[\._]?(global?|general)$ " />
+                  <option name="touched" value="true" />
+                  <option name="iconType" value="FOLDER" />
+                  <option name="name" value="global" />
+                  <option name="icon" value="/global.svg" />
+                </RegexAssociation>
+              </value>
+            </entry>
             <entry key="images">
               <value>
                 <RegexAssociation>
