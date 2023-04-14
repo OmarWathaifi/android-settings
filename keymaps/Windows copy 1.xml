@@ -26,6 +26,9 @@
   <action id="Debugger.EditArrayFilter" />
   <action id="Debugger.EditCustomField" />
   <action id="Diff.ShowSettingsPopup" />
+  <action id="DomCollectionControl.Add" />
+  <action id="DomElementsTreeView.AddElement" />
+  <action id="EditorToggleInsertState" />
   <action id="FindInPath" />
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
@@ -47,6 +50,10 @@
   </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="insert" />
   </action>
   <action id="Git.Rename.Local.Branch">
     <keyboard-shortcut first-keystroke="shift f6" />
@@ -115,7 +122,9 @@
     <mouse-shortcut keystroke="shift button5" />
   </action>
   <action id="UpdateRunningApplication" />
+  <action id="UsageView.Include" />
   <action id="WelcomeScreen.CopyProjectPath" />
+  <action id="XDebugger.NewWatch" />
   <action id="XDebugger.SetValue" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />

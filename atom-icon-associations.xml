@@ -5,6 +5,18 @@
         <option name="iconType" value="FOLDER" />
         <option name="ownAssociations">
           <map>
+            <entry key="arttext">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^(\.artx|arts?|wordarts?|address|add_address)$" />
+                  <option name="pattern" value="^(\.artx|arts?|wordarts?|address|add_address)$" />
+                  <option name="touched" value="true" />
+                  <option name="iconType" value="FOLDER" />
+                  <option name="name" value="arttext" />
+                  <option name="icon" value="/arttext.svg" />
+                </RegexAssociation>
+              </value>
+            </entry>
             <entry key="base">
               <value>
                 <RegexAssociation>
