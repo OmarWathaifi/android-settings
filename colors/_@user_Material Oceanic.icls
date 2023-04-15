@@ -4,7 +4,7 @@
     <property name="created">2023-04-15T18:40:08</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2022.2.1.18</property>
-    <property name="modified">2023-04-15T18:40:22</property>
+    <property name="modified">2023-04-15T18:47:24</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -76,6 +76,8 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="fc9867" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="fc9867" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e88d" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="FILESTATUS_MERGED" value="c792ea" />
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
@@ -242,9 +244,9 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.HERE_DOC_END" baseAttributes="" />
-    <option name="BASH.HERE_DOC_START" baseAttributes="" />
-    <option name="BASH.SHEBANG" baseAttributes="" />
+    <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BLINKING_HIGHLIGHTS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="9c88" />
@@ -521,9 +523,9 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
-    <option name="Class" baseAttributes="" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="Closure braces">
       <value>
         <option name="FOREGROUND" value="89ddff" />
@@ -2196,10 +2198,10 @@
         <option name="FOREGROUND" value="eeffe3" />
       </value>
     </option>
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
-    <option name="PROPERTIES.KEY" baseAttributes="" />
-    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
-    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="" />
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
+    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="PROTOCOL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="219598" />
@@ -2341,14 +2343,14 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="REGEXP.BRACES" baseAttributes="" />
-    <option name="REGEXP.BRACKETS" baseAttributes="" />
-    <option name="REGEXP.CHAR_CLASS" baseAttributes="" />
-    <option name="REGEXP.ESC_CHARACTER" baseAttributes="" />
-    <option name="REGEXP.META" baseAttributes="" />
-    <option name="REGEXP.PARENTHS" baseAttributes="" />
-    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="" />
-    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="" />
+    <option name="REGEXP.BRACES" baseAttributes="DEFAULT_BRACES" />
+    <option name="REGEXP.BRACKETS" baseAttributes="DEFAULT_BRACKETS" />
+    <option name="REGEXP.CHAR_CLASS" baseAttributes="DEFAULT_ENTITY" />
+    <option name="REGEXP.ESC_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.META" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="REGEXP.PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
+    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="REGEXP_MATCHED_GROUPS">
       <value>
         <option name="BACKGROUND" value="415967" />
@@ -3026,7 +3028,7 @@
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
-    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="" />
+    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="SUGGESTION">
       <value>
         <option name="EFFECT_COLOR" value="607d8b" />
@@ -3047,7 +3049,7 @@
     </option>
     <option name="Scala Type Alias" baseAttributes="" />
     <option name="Scala Type parameter" baseAttributes="" />
-    <option name="Static method access" baseAttributes="" />
+    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
     <option name="Static property reference ID">
       <value>
         <option name="FOREGROUND" value="eeffff" />
@@ -3131,7 +3133,7 @@
         <option name="FOREGROUND" value="c7c8f5" />
       </value>
     </option>
-    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="" />
+    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
     <option name="TYPO">
       <value>
         <option name="EFFECT_COLOR" value="ffeb95" />
