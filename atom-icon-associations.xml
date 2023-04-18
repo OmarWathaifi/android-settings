@@ -5,6 +5,36 @@
         <option name="iconType" value="FOLDER" />
         <option name="ownAssociations">
           <map>
+            <entry key="Bitcoin">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?(bitcoin?|wallet|payments|payment)$" />
+                  <option name="pattern" value="^[\._]?(bitcoin?|wallet|payments|payment)$" />
+                  <option name="touched" value="true" />
+                  <option name="iconType" value="FOLDER" />
+                  <option name="name" value="Bitcoin" />
+                  <option name="icon" value="/bitcoin.svg" />
+                  <option name="iconColor" />
+                  <option name="folderColor" value="FFA000" />
+                  <option name="folderIconColor" value="FFECB3" />
+                </RegexAssociation>
+              </value>
+            </entry>
+            <entry key="Rust">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?(rust|cargo|shipments|shipment)$" />
+                  <option name="pattern" value="^[\._]?(rust|cargo|shipments|shipment)$" />
+                  <option name="touched" value="true" />
+                  <option name="iconType" value="FOLDER" />
+                  <option name="name" value="Rust" />
+                  <option name="icon" value="/rust.svg" />
+                  <option name="iconColor" />
+                  <option name="folderColor" value="D14748" />
+                  <option name="folderIconColor" value="FFCDD2" />
+                </RegexAssociation>
+              </value>
+            </entry>
             <entry key="arttext">
               <value>
                 <RegexAssociation>
