@@ -49,9 +49,17 @@
       <option name="DART_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="fnav" value="Navigator.of(context).pushNamed(AppRoutes.$body$);" description="" toReformat="false" toShortenFQNames="true">
+  <template name="fnav" value="Navigator.of(context).pushNamed(AppRoutes.$body$)" description="" toReformat="false" toShortenFQNames="true">
     <variable name="body" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="DART" value="true" />
+      <option name="FLUTTER" value="true" />
+    </context>
+  </template>
+  <template name="blc" value="BlocProvider.of&lt;$body$Bloc&gt;(context)" description="BlocProvider" toReformat="false" toShortenFQNames="true">
+    <variable name="body" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Bloc" value="true" />
       <option name="DART" value="true" />
       <option name="FLUTTER" value="true" />
     </context>
