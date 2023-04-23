@@ -1,8 +1,10 @@
 <application>
   <component name="StringManipulationState">
-    <option name="lastAction">
+    <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.switching.ToSnakeCaseOrCamelCaseAction" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.switching.ToSentenceCaseOrCamelCaseAction" />
+        <option name="description" value="Toggle: First word capitalized / camelCase" />
+        <option name="textWithMnemonic" value="First word capitalized / camelCase" />
       </UniversalActionModel>
     </option>
   </component>
