@@ -98,6 +98,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt l" />
     <mouse-shortcut keystroke="button4" />
   </action>
+  <action id="StringManipulation.ToHyphenCaseAction">
+    <keyboard-shortcut first-keystroke="shift alt q" />
+  </action>
   <action id="StringManipulation.ToHyphenCaseOrCamelCase">
     <keyboard-shortcut first-keystroke="shift ctrl q" />
   </action>
