@@ -20,6 +20,36 @@
                 </RegexAssociation>
               </value>
             </entry>
+            <entry key="Containers">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?(containers?|devcontainers?|onboarding)$" />
+                  <option name="pattern" value="^[\._]?(containers?|devcontainers?|onboarding)$" />
+                  <option name="touched" value="true" />
+                  <option name="iconType" value="FOLDER" />
+                  <option name="name" value="Containers" />
+                  <option name="icon" value="/container.svg" />
+                  <option name="iconColor" />
+                  <option name="folderColor" value="1976D2" />
+                  <option name="folderIconColor" value="bbdefb" />
+                </RegexAssociation>
+              </value>
+            </entry>
+            <entry key="Images">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?(images?|img|medias?|pics?|pictures?|gallery|splash|figures?)$" />
+                  <option name="pattern" value="^[\._]?(images?|img|medias?|pics?|pictures?|gallery|splash|figures?)$" />
+                  <option name="touched" value="true" />
+                  <option name="iconType" value="FOLDER" />
+                  <option name="name" value="Images" />
+                  <option name="icon" value="/images.svg" />
+                  <option name="iconColor" />
+                  <option name="folderColor" value="009688" />
+                  <option name="folderIconColor" value="b2dfdb" />
+                </RegexAssociation>
+              </value>
+            </entry>
             <entry key="Rust">
               <value>
                 <RegexAssociation>
