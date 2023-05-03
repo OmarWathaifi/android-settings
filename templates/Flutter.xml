@@ -70,4 +70,10 @@
       <option name="FLUTTER" value="true" />
     </context>
   </template>
+  <template name="txt" value="Text(AppStrings.$text$, style: mediumStyle(fontSize: $font$.sp, color: AppColors.$color$)),&#10;" description="Create Text Widget" toReformat="true" toShortenFQNames="true">
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="font" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="color" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
 </templateSet>
