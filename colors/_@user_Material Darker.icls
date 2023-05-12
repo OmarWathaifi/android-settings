@@ -5,7 +5,7 @@
     <property name="description" />
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.26</property>
-    <property name="modified">2023-04-27T10:24:18</property>
+    <property name="modified">2023-05-12T08:04:54</property>
     <property name="originalScheme">Material Darker</property>
     <property name="vendorMail">asd</property>
     <property name="vendorName">asd</property>
@@ -1231,27 +1231,72 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="313123" />
+        <option name="BACKGROUND" value="1e1f23" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_1_DERIVED">
+      <value>
+        <option name="BACKGROUND" value="504d36" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="283128" />
+        <option name="BACKGROUND" value="1b2320" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2_DERIVED">
+      <value>
+        <option name="BACKGROUND" value="2c6525" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="312831" />
+        <option name="BACKGROUND" value="22241e" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3_DERIVED">
+      <value>
+        <option name="BACKGROUND" value="1c232b" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="242f2f" />
+        <option name="BACKGROUND" value="26201d" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4_DERIVED">
+      <value>
+        <option name="BACKGROUND" value="341731" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="261b1b" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5_DERIVED">
+      <value>
+        <option name="BACKGROUND" value="3d0505" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="261718" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6_DERIVED">
+      <value>
+        <option name="BACKGROUND" value="7574b" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="3e2121" />
+        <option name="BACKGROUND" value="270a0a" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR_DERIVED">
+      <value>
+        <option name="BACKGROUND" value="4b0909" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
