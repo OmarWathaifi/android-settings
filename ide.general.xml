@@ -11,6 +11,10 @@
     <entry key="ide.text.editor.with.preview.show.floating.toolbar" value="false" />
     <entry key="project.tree.structure.show.url" value="false" />
     <entry key="gradle.version.catalogs.dynamic.support" value="true" />
+    <entry key="ide.editor.tab.selection.animation" value="true" />
+    <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
+    <entry key="editor.focus.mode.color.light" value="474747" />
+    <entry key="editor.focus.mode.color.dark" value="474747" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
@@ -22,7 +26,6 @@
         <entry key="SendFeedbackPanel" value="false" />
         <entry key="UserSentimentPanelNegative" value="false" />
         <entry key="UserSentimentPanelPositive" value="false" />
-        <entry key="WakaTime" value="false" />
         <entry key="com.intellij.psi.codeStyle.statusbar.CodeStyleStatusBarWidget" value="false" />
         <entry key="com.tabnine.statusBar.StatusBarPromotionWidget" value="false" />
         <entry key="com.tabnine.statusBar.TabnineStatusBarWidget" value="false" />
