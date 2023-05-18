@@ -20,6 +20,21 @@
                 </RegexAssociation>
               </value>
             </entry>
+            <entry key="Connection">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?(connect|connections?|rel|relations?|links?|phone|user_phone|change_phone)$" />
+                  <option name="pattern" value="^[\._]?(connect|connections?|rel|relations?|links?|phone|user_phone|change_phone)$" />
+                  <option name="touched" value="true" />
+                  <option name="iconType" value="FOLDER" />
+                  <option name="name" value="Connection" />
+                  <option name="icon" value="/connection.svg" />
+                  <option name="iconColor" />
+                  <option name="folderColor" value="00acc1" />
+                  <option name="folderIconColor" value="b2ebf2" />
+                </RegexAssociation>
+              </value>
+            </entry>
             <entry key="Containers">
               <value>
                 <RegexAssociation>
@@ -62,6 +77,21 @@
                   <option name="iconColor" />
                   <option name="folderColor" value="D14748" />
                   <option name="folderIconColor" value="FFCDD2" />
+                </RegexAssociation>
+              </value>
+            </entry>
+            <entry key="Users">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?(users?|members?|friends?|partners?|roles?|user_account?)$" />
+                  <option name="pattern" value="^[\._]?(users?|members?|friends?|partners?|roles?|user_account?)$" />
+                  <option name="touched" value="true" />
+                  <option name="iconType" value="FOLDER" />
+                  <option name="name" value="Users" />
+                  <option name="icon" value="/users.svg" />
+                  <option name="iconColor" />
+                  <option name="folderColor" value="ec407a" />
+                  <option name="folderIconColor" value="f8bbd0" />
                 </RegexAssociation>
               </value>
             </entry>
@@ -176,8 +206,8 @@
             <entry key="images">
               <value>
                 <RegexAssociation>
-                  <option name="matcher" value="^[\._]?(images?|img|medias?|pics?|pictures?|gallery|profile|account|my_account)$" />
-                  <option name="pattern" value="^[\._]?(images?|img|medias?|pics?|pictures?|gallery|profile|account|my_account)$" />
+                  <option name="matcher" value="^[\._]?(images?|img|medias?|pics?|pictures?|gallery|profile|account|my_account|)$" />
+                  <option name="pattern" value="^[\._]?(images?|img|medias?|pics?|pictures?|gallery|profile|account|my_account|)$" />
                   <option name="touched" value="true" />
                   <option name="iconType" value="FOLDER" />
                   <option name="name" value="images" />
