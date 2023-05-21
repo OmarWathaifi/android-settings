@@ -80,6 +80,21 @@
                 </RegexAssociation>
               </value>
             </entry>
+            <entry key="Upload">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?(uploads?|updates?|updated|upgrades?)$" />
+                  <option name="pattern" value="^[\._]?(uploads?|updates?|updated|upgrades?)$" />
+                  <option name="touched" value="true" />
+                  <option name="iconType" value="FOLDER" />
+                  <option name="name" value="Upload" />
+                  <option name="icon" value="/upload.svg" />
+                  <option name="iconColor" />
+                  <option name="folderColor" value="ff7043" />
+                  <option name="folderIconColor" value="FFEBEE" />
+                </RegexAssociation>
+              </value>
+            </entry>
             <entry key="Users">
               <value>
                 <RegexAssociation>
