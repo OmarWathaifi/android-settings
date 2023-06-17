@@ -1,0 +1,5 @@
+<application>
+  <component name="DarkyenusTimeTrackerDefaults">
+    <option name="stopWhenIdleRatherThanPausing" value="true" />
+  </component>
+</application>
