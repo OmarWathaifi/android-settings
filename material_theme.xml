@@ -1,0 +1,13 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isWizardShown" value="true" />
+    <option name="treeFontSizeEnabled" value="true" />
+    <option name="tabFontSizeEnabled" value="true" />
+    <option name="indicatorStyle" value="None" />
+    <option name="accentColor" value="ff9800" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="userId" value="-2601a3ba:188c722041d:-8000" />
+    <option name="version" value="7.14.2" />
+    <option name="tabHighlightPosition" value="Bottom" />
+  </component>
+</application>
