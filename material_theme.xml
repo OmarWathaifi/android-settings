@@ -17,18 +17,22 @@
     <option name="isTabsShadow" value="false" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
+    <option name="treeFontSizeEnabled" value="true" />
+    <option name="tabFontSizeEnabled" value="true" />
     <option name="useColoredDirectories" value="true" />
+    <option name="indicatorStyle" value="None" />
     <option name="customSidebarHeight" value="20" />
     <option name="customListItemsSize" value="18" />
     <option name="leftTreeIndent" value="4" />
     <option name="rightTreeIndent" value="4" />
     <option name="settingsSelectedTab" value="2" />
     <option name="tabsHeight" value="18" />
-    <option name="accentColor" value="009688" />
+    <option name="accentColor" value="ff9800" />
     <option name="highlightColor" value="e9bd1e" />
+    <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-563751d1:17fa78863bd:-7fe3" />
     <option name="version" value="7.14.2" />
     <option name="uiFont" value="Fira Code Retina" />
-    <option name="tabFont" value="Cascadia Code" />
+    <option name="tabHighlightPosition" value="Bottom" />
   </component>
 </application>
