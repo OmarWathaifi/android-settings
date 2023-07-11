@@ -1,0 +1,39 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="asd">
+      <action id="NewDir" />
+      <typing text-keycode="83:0;68:0">sd</typing>
+      <shortuct text="ENTER" />
+      <shortuct text="ENTER" />
+    </macro>
+    <macro name="s">
+      <action id="NewDir" />
+      <typing text-keycode="65:0;85:0;84:0;72:0">auth</typing>
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="84:0;73:0;84:0;76:0;69:0">title</typing>
+      <shortuct text="ENTER" />
+      <action id="NewDir" />
+      <typing text-keycode="68:0;65:0;84:0;65:0">data</typing>
+      <shortuct text="ENTER" />
+      <action id="Tree-selectPrevious" />
+      <action id="NewDir" />
+      <typing text-keycode="68:0;79:0;77:0;65:0;73:0;78:0">domain</typing>
+      <shortuct text="ENTER" />
+      <action id="Tree-selectPrevious" />
+      <action id="Tree-selectPrevious" />
+      <action id="Tree-selectPrevious" />
+      <action id="Tree-selectNext" />
+      <action id="RenameElement" />
+      <action id="$SelectAll" />
+      <action id="EditorCopy" />
+      <shortuct text="ESCAPE" />
+      <action id="NewDir" />
+      <action id="EditorPaste" />
+      <shortuct text="ENTER" />
+    </macro>
+  </component>
+</application>
