@@ -74,6 +74,5 @@
     <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="font" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="color" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
 </templateSet>
