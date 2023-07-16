@@ -12,6 +12,7 @@
   <action id="ChangesView.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
+  <action id="ContextHelp" />
   <action id="CopyAbsolutePath" />
   <action id="CopyContentRootPath">
     <keyboard-shortcut first-keystroke="shift ctrl c" />
@@ -87,6 +88,7 @@
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift f10" />
     <keyboard-shortcut first-keystroke="f12" />
+    <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="SaveAll" />
   <action id="Scala.ShowImplicits">
