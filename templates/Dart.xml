@@ -4,13 +4,7 @@
       <option name="DART" value="true" />
     </context>
   </template>
-  <template name="var" value="var " description="Dart 'var' variable" toReformat="false" toShortenFQNames="true">
-    <context />
-  </template>
-  <template name="const" value="const " description="Dart 'const' variable" toReformat="false" toShortenFQNames="true">
-    <context />
-  </template>
-  <template name="list" value="List" description="Dart 'List' collection" toReformat="false" toShortenFQNames="true">
-    <context />
-  </template>
+  <template name="var" value="var " description="Dart 'var' variable" toReformat="false" toShortenFQNames="true" />
+  <template name="const" value="const " description="Dart 'const' variable" toReformat="false" toShortenFQNames="true" />
+  <template name="list" value="List" description="Dart 'List' collection" toReformat="false" toShortenFQNames="true" />
 </templateSet>
