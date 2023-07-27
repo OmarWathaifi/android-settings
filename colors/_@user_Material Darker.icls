@@ -5,7 +5,7 @@
     <property name="description" />
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.26</property>
-    <property name="modified">2023-07-27T19:16:45</property>
+    <property name="modified">2023-07-27T19:50:25</property>
     <property name="originalScheme">Material Darker</property>
     <property name="vendorMail">asd</property>
     <property name="vendorName">asd</property>
@@ -457,7 +457,7 @@
     </option>
     <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
-    <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
+    <option name="Class" baseAttributes="" />
     <option name="Closure braces">
       <value>
         <option name="FOREGROUND" value="89ddff" />
@@ -3745,7 +3745,7 @@
         <option name="FOREGROUND" value="800ff" />
       </value>
     </option>
-    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
+    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="" />
     <option name="SUGGESTION">
       <value>
         <option name="EFFECT_COLOR" value="607d8b" />
@@ -3781,7 +3781,7 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
-    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
+    <option name="Static method access" baseAttributes="" />
     <option name="Static property reference ID">
       <value>
         <option name="FOREGROUND" value="eeffff" />
