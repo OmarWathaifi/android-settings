@@ -148,6 +148,9 @@
   <action id="flutter.clean">
     <keyboard-shortcut first-keystroke="scroll_lock" />
   </action>
+  <action id="flutter.devtools.open">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
   <action id="flutter.pub.get">
     <keyboard-shortcut first-keystroke="pause" />
   </action>
