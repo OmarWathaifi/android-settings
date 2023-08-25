@@ -5,7 +5,7 @@
     <property name="description" />
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.26</property>
-    <property name="modified">2023-08-25T20:08:13</property>
+    <property name="modified">2023-08-26T01:08:46</property>
     <property name="originalScheme">Material Darker</property>
     <property name="vendorMail">asd</property>
     <property name="vendorName">asd</property>
@@ -468,6 +468,11 @@
         <option name="FOREGROUND" value="f6ff00" />
       </value>
     </option>
+    <option name="DART_DYNAMIC_PARAMETER_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="ff9700" />
+      </value>
+    </option>
     <option name="DART_ENUM_CONSTANT">
       <value>
         <option name="FOREGROUND" value="ef90ec" />
@@ -475,7 +480,7 @@
     </option>
     <option name="DART_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="f78c6c" />
+        <option name="FOREGROUND" value="ff9700" />
       </value>
     </option>
     <option name="DART_IMPORT_PREFIX">
