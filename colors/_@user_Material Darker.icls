@@ -5,7 +5,7 @@
     <property name="description" />
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.26</property>
-    <property name="modified">2023-08-26T01:56:18</property>
+    <property name="modified">2023-08-27T12:27:58</property>
     <property name="originalScheme">Material Darker</property>
     <property name="vendorMail">asd</property>
     <property name="vendorName">asd</property>
@@ -300,6 +300,12 @@
         <option name="FOREGROUND" value="f70eff" />
       </value>
     </option>
+    <option name="CONSOLE_DARKGRAY_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="f1ff00" />
+        <option name="BACKGROUND" value="157d" />
+      </value>
+    </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ff0303" />
@@ -309,7 +315,8 @@
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="616161" />
+        <option name="FOREGROUND" value="ffe900" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_OUTPUT">
@@ -1639,6 +1646,12 @@
     <option name="LOG_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="LOG_EXPIRED_ENTRY">
+      <value>
+        <option name="FOREGROUND" value="f1ff00" />
+        <option name="BACKGROUND" value="157d" />
       </value>
     </option>
     <option name="LOG_INFO_OUTPUT">
