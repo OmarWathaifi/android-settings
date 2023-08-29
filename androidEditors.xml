@@ -6,6 +6,7 @@
         <option name="preferredDrawableEditorMode" value="SPLIT" />
         <option name="preferredEditorMode" value="DESIGN" />
         <option name="preferredKotlinEditorMode" value="CODE" />
+        <option name="showLint" value="true" />
       </GlobalState>
     </option>
   </component>
