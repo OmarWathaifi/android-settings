@@ -1,0 +1,8 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="GetX/Wrap with GetBuilder" />
+    <ignoreAction name="GetX/Wrap with GetBuilder (Auto Dispose)" />
+    <ignoreAction name="GetX/Wrap with GetX" />
+    <ignoreAction name="GetX/Wrap with Obx" />
+  </component>
+</application>

@@ -120,18 +120,6 @@
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Flutter" />
-          <option name="key" value="singleChildSV" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Flutter" />
-          <option name="key" value="scfAll" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Flutter" />
-          <option name="key" value="column" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Flutter" />
           <option name="key" value="frow" />
         </TemplateKey>
         <TemplateKey>
